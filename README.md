@@ -92,12 +92,6 @@ A feature-rich, user-friendly fitness tracker web application that helps users m
   - 
 ---
 
-### Screenshots 📸
-<img src="https://github.com/user-attachments/assets/1ff5981d-cb12-4f63-87a0-7847fbce66a4" width="500"/>  <img src="https://github.com/user-attachments/assets/edf0778b-6b28-4ef3-ae08-4bc7872a5a5e" width="500"/> 
-<img src="https://github.com/user-attachments/assets/a4e586e2-3406-4f9b-ae95-01b821f47a66" width="500"/> 
-<img src="https://github.com/user-attachments/assets/93ab9129-ab36-4d4b-929e-edbc61f98c54" width="500"/> 
 
-
----
 
 
