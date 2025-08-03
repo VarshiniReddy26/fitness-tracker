@@ -97,13 +97,7 @@ A feature-rich, user-friendly fitness tracker web application that helps users m
 <img src="https://github.com/user-attachments/assets/a4e586e2-3406-4f9b-ae95-01b821f47a66" width="500"/> 
 <img src="https://github.com/user-attachments/assets/93ab9129-ab36-4d4b-929e-edbc61f98c54" width="500"/> 
 
----
-
-###  License 📃
-This project is open-source and available under the MIT License. 
 
 ---
-### Contributing 🤝
-Contributions are welcome! If you'd like to improve this project, feel free to fork the repository and submit a pull request.
 
----
+
